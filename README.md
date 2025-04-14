@@ -54,10 +54,11 @@ This means:
 
 ## 📌 Contents
 
-| Title                                                                                      | Focus                                                                                |
-|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| [EvaCortex Core Reasoning Architecture](./papers/EvaCortex Core Reasoning Architecture.md) | Introduces a modular, reasoning-centric architecture for synthetic cognitive systems |
-| [Synthetic Consciousness And Reasoning](./papers/Synthetic Consciousness And Reasoning.md) | Toward Subjective and Self-Evaluating Cognitive Agents                               |
+| Title                                                                                                                         | Focus                                                                                |
+|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [EvaCortex: Core Reasoning Architecture](./papers/EvaCortex_Core_Reasoning_Architecture.md)                                   | Introduces a modular, reasoning-centric architecture for synthetic cognitive systems |
+| [EvaCortex: Toward Subjective and Self-Evaluating Agents](./papers/EvaCortex_Toward_Subjective-And_Self-Evaluating_Agents.md) | Introduction to role-based reasoning agents                                          |
+| [Synthetic Consciousness: Reasoning as the Root of Subjective Experience](./papers/Synthetic_Consciousness.md)                | Engineering subjectivity beyond qualia                                               |
 
 > 📎 All documents are timestamped and cryptographically verifiable through Git history.
 

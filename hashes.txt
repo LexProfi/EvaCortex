@@ -2,7 +2,11 @@
 # Each entry documents the SHA256 of a published whitepaper or legal file
 # For verification or notarization purposes only
 
-README.md @ 2025-04-14-09:20 UTC → 52f6c709c9701fdc9e5c39fc795677c4bc4498445a56c2d33c752de506feb806
-LICENSE.md @ 2025-04-14-09:20 UTC → 2dc5e2374124c5d118750387542b4e006508e58a7519a7f81caa295304e98826
-papers\EvaCortex Core Reasoning Architecture.md @ 2025-04-14-08:26 UTC → cc501950692f54377f5988f8bf9a8e48df1c9824e7488defc33b7248d32c02d3
-papers\Synthetic Consciousness And Reasoning.md @ 2025-04-14-08:26 UTC → 6600b14db91062bf0a2e130a3d03c42a3496a7cae85a74e382476446047700ba
+Add README.md @ 2025-04-14-09:20 UTC → 52f6c709c9701fdc9e5c39fc795677c4bc4498445a56c2d33c752de506feb806
+Add LICENSE.md @ 2025-04-14-09:20 UTC → 2dc5e2374124c5d118750387542b4e006508e58a7519a7f81caa295304e98826
+Add papers\EvaCortex Core Reasoning Architecture.md @ 2025-04-14-08:26 UTC → cc501950692f54377f5988f8bf9a8e48df1c9824e7488defc33b7248d32c02d3
+Add papers\Synthetic Consciousness And Reasoning.md @ 2025-04-14-08:26 UTC → 6600b14db91062bf0a2e130a3d03c42a3496a7cae85a74e382476446047700ba
+Rename papers\EvaCortex Core Reasoning Architecture.md → EvaCortex_Core_Reasoning_Architecture.md  @ 2025-04-14-16:27 UTC → cc501950692f54377f5988f8bf9a8e48df1c9824e7488defc33b7248d32c02d3
+Rename papers\Synthetic Consciousness And Reasoning.md → EvaCortex_Toward_Subjective-And_Self-Evaluating_Agents.md @ 2025-04-14-16:27 UTC → 6600b14db91062bf0a2e130a3d03c42a3496a7cae85a74e382476446047700ba
+Add papers\Synthetic_Consciousness.md  @ 2025-04-14-16:27 UTC → 44adaee188f643a3b6495e46a45721d8512187947e3e0d168a3edde7b2c54373
+Update README.md @ 2025-04-14-16:27 UTC → 2c30632bb1e15c48fbc19c1315927e95dbede5e25794361c78320a4dcdb7b863
