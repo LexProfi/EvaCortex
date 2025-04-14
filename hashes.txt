@@ -2,7 +2,7 @@
 # Each entry documents the SHA256 of a published whitepaper or legal file
 # For verification or notarization purposes only
 
-README.md @ 2025-04-14-08:26 UTC → 7e29f707a0ee927261ae09c3545446e49067d7169878b5d7b5556217e764ad54
-LICENSE.md @ 2025-04-14-08:26 UTC → 3ef1f1ce6c4b59c3251dd6d232143a0dc5483cfde4262dd4daaa6cba23c100d5
+README.md @ 2025-04-14-09:20 UTC → 52f6c709c9701fdc9e5c39fc795677c4bc4498445a56c2d33c752de506feb806
+LICENSE.md @ 2025-04-14-09:20 UTC → 2dc5e2374124c5d118750387542b4e006508e58a7519a7f81caa295304e98826
 papers\EvaCortex Core Reasoning Architecture.md @ 2025-04-14-08:26 UTC → cc501950692f54377f5988f8bf9a8e48df1c9824e7488defc33b7248d32c02d3
 papers\Synthetic Consciousness And Reasoning.md @ 2025-04-14-08:26 UTC → 6600b14db91062bf0a2e130a3d03c42a3496a7cae85a74e382476446047700ba

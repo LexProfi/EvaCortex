@@ -43,4 +43,4 @@ For full legal details, see:
 
 All rights reserved by the creator and principal architect of EvaCortex.
 
-Contact for inquiries or licensing: **(your-name-or-email-here)**
+Contact for inquiries or licensing: **Aleksandr Listopad**

@@ -24,14 +24,16 @@ No source code, implementation logic, or proprietary architecture is included in
 
 ## ⚠️ Legal & Intellectual Property Notice
 
-The EvaCortex system, its core mechanisms, and the entire cognitive architecture remain proprietary and confidential.
+EvaCortex — including its cognitive architecture, reasoning mechanisms, and conceptual models — is an original intellectual work authored and maintained by its creator.
 
-This repository is maintained in accordance with NDA-compliant standards.  
+This repository is published for **intellectual positioning and conceptual reference only**.  
 All documents are:
 
-- Published for intellectual positioning and conceptual reference;
-- Provided **without granting any license to reproduce, derive from, or embed into commercial or academic products**;
-- Authored under a **strict Creative Commons license (see below)** that protects against unauthorized modification or reuse.
+- Shared **without granting any license to reproduce, derive from, or embed into commercial, academic, or research products**;
+- Governed by a strict **Creative Commons license (see below)** that **prohibits unauthorized modification, translation, or reuse**;
+- Authored and curated solely by the **original architect of EvaCortex**, who retains full rights to future development and application.
+
+> All materials in this repository are authored by an independent researcher and architect of EvaCortex. No institutional affiliation is implied unless stated explicitly.
 
 ---
 
