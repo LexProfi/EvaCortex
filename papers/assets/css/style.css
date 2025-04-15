@@ -1,0 +1,85 @@
+/* Base resets */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    background: #fff;
+    color: #222;
+    font-family: 'Inter', 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+a {
+    color: #3B5BDB;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #2E448B; /* slightly darker or lighter for hover effect */
+}
+
+.logo {
+    display: block;
+    max-width: 120px; /* or 80px if you want smaller */
+    margin: 40px auto 20px auto; /* center it horizontally */
+}
+
+/* Hero section */
+.hero {
+    max-width: 800px;
+    margin: 120px auto 40px auto;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.headline {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+.headline em {
+    font-style: italic;
+    color: #555; /* subtle highlight */
+}
+
+.subtitle {
+    font-size: 20px;
+    color: #444;
+    line-height: 1.7;
+    margin-bottom: 40px;
+}
+
+/* CTA link */
+.cta {
+    text-align: center;
+    margin: 0 auto 120px auto;
+}
+
+.primary-link {
+    background-color: #3B5BDB;
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+}
+
+.primary-link:hover {
+    background-color: #2E3F8B;
+}
+
+/* Ensuring responsiveness for smaller screens */
+@media (max-width: 600px) {
+    .headline {
+        font-size: 26px;
+    }
+    .subtitle {
+        font-size: 18px;
+    }
+}
