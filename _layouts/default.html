@@ -8,6 +8,55 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+    <script defer src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+
+    <script>
+        window.addEventListener("load", function(){
+            window.cookieconsent.initialise({
+                palette: {
+                    popup: {
+                        background: "#1a1a1c",
+                        text: "#eaeaea"
+                    },
+                    button: {
+                        background: "#8c7bff",
+                        text: "#ffffff"
+                    }
+                },
+                theme: "classic",
+                position: "bottom",
+                type: "opt-in",
+                content: {
+                    message: "We use cookies and analytics to improve your experience.",
+                    dismiss: "Accept",
+                    deny: "Decline",
+                    link: "Privacy Policy",
+                    href: "/privacy-policy.html"
+                },
+                onInitialise: function (status) {
+                    if (status === 'allow') enableTracking();
+                },
+                onStatusChange: function (status) {
+                    if (status === 'allow') enableTracking();
+                }
+            });
+        });
+
+        function enableTracking() {
+            // Google Analytics
+            const gaScript = document.createElement('script');
+            gaScript.setAttribute('async', '');
+            gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-9XJX16G05R';
+            document.head.appendChild(gaScript);
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){ dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'G-9XJX16G05R');
+        }
+    </script>
+
 </head>
 <body>
 
