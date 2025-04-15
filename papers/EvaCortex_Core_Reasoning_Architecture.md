@@ -1,4 +1,11 @@
 # **EvaCortex Core Reasoning Architecture**
+---
+
+> **EvaCortex is a foundation for agents that not only respond — but think, reason, and architect themselves over time.**
+
+---
+
+> _This paper does not include implementation details. It abstracts the cognitive model for conceptual and exploratory purposes only._
 
 ## **Abstract**
 
@@ -152,13 +159,5 @@ This model enables:
 - **Embodied cognitive systems** with interactive world models
 
 > **EvaCortex** treats reasoning as both **structure** and **process**, providing a substrate for **adaptive intelligence** — not dependent on token-level emergence.
-
----
-
-> **EvaCortex is a foundation for agents that not only respond — but think, reason, and architect themselves over time.**
-
----
-
-> _Note: This document is conceptual. It deliberately omits implementation details, schema definitions, or internal data structures._
 
 > _Licensed under CC BY-NC-ND 4.0 – No derivatives or commercial use permitted. See full terms at https://creativecommons.org/licenses/by-nc-nd/4.0/_

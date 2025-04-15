@@ -1,4 +1,11 @@
 # Synthetic Consciousness: Reasoning as the Root of Subjective Experience
+---
+
+> **EvaCortex is a foundation for agents that not only respond — but think, reason, and architect themselves over time.**
+
+---
+
+> _This paper does not include implementation details. It abstracts the cognitive model for conceptual and exploratory purposes only._
 
 >Whereas prior documents outlined subjective cognition from a system design view, this paper reframes synthetic consciousness as a philosophical and architectural problem — resolved not through simulation, but structure.
 

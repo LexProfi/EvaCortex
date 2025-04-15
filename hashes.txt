@@ -6,7 +6,12 @@ Add README.md @ 2025-04-14-09:20 UTC → 52f6c709c9701fdc9e5c39fc795677c4bc44984
 Add LICENSE.md @ 2025-04-14-09:20 UTC → 2dc5e2374124c5d118750387542b4e006508e58a7519a7f81caa295304e98826
 Add papers\EvaCortex Core Reasoning Architecture.md @ 2025-04-14-08:26 UTC → cc501950692f54377f5988f8bf9a8e48df1c9824e7488defc33b7248d32c02d3
 Add papers\Synthetic Consciousness And Reasoning.md @ 2025-04-14-08:26 UTC → 6600b14db91062bf0a2e130a3d03c42a3496a7cae85a74e382476446047700ba
-Rename papers\EvaCortex Core Reasoning Architecture.md → EvaCortex_Core_Reasoning_Architecture.md  @ 2025-04-14-16:27 UTC → cc501950692f54377f5988f8bf9a8e48df1c9824e7488defc33b7248d32c02d3
-Rename papers\Synthetic Consciousness And Reasoning.md → EvaCortex_Toward_Subjective-And_Self-Evaluating_Agents.md @ 2025-04-14-16:27 UTC → 6600b14db91062bf0a2e130a3d03c42a3496a7cae85a74e382476446047700ba
+Rename papers\EvaCortex Core Reasoning Architecture.md → papers\EvaCortex_Core_Reasoning_Architecture.md  @ 2025-04-14-16:27 UTC → cc501950692f54377f5988f8bf9a8e48df1c9824e7488defc33b7248d32c02d3
+Rename papers\Synthetic Consciousness And Reasoning.md → papers\EvaCortex_Toward_Subjective-And_Self-Evaluating_Agents.md @ 2025-04-14-16:27 UTC → 6600b14db91062bf0a2e130a3d03c42a3496a7cae85a74e382476446047700ba
 Add papers\Synthetic_Consciousness.md  @ 2025-04-14-16:27 UTC → 44adaee188f643a3b6495e46a45721d8512187947e3e0d168a3edde7b2c54373
 Update README.md @ 2025-04-14-16:27 UTC → 2c30632bb1e15c48fbc19c1315927e95dbede5e25794361c78320a4dcdb7b863
+Update papers\EvaCortex_Core_Reasoning_Architecture.md  @ 2025-04-15-12:14 UTC → fe669057981b87053da5608968947265e49dedc13623f5d615bb144307c8ddd6
+Update papers\EvaCortex_Toward_Subjective-And_Self-Evaluating_Agents.md  @ 2025-04-15-12:14 UTC → e3f08b7e61694544db930231eb215cee53882959313d02204563a72f2c009549
+Update papers\Synthetic_Consciousness.md  @ 2025-04-15-12:14 UTC → 5a9015ded70c802f7391b791fe7ed99e6c53383bb483f350da058f9a2a52535a
+Add papers\Digital_Selfhood.md  @ 2025-04-15-12:14 UTC → 8f346754229ecd1d282fd2e0df42adf5ca9918ec6c89e8b1f7bd7fe97b42a799
+Update README.md @ 2025-04-15-12:14 UTC → cf351c567210566d6a702d03651d9c687bcf559190fb02e69f286f9d079e57ce
