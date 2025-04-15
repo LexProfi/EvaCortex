@@ -3,8 +3,6 @@ layout: default
 title: EvaCortex
 ---
 
-<!-- <img src="assets/img/evacortex-logo.svg" alt="EvaCortex" class="logo"> -->
-
 <div class="hero">
   <h1 class="headline">
     We used to listen to AI respond.<br>
@@ -17,9 +15,5 @@ title: EvaCortex
 </div>
 
 <div class="cta">
-  <a href="README.md" class="primary-link">Explore Our Documentation</a>
+  <a href="https://github.com/LexProfi/EvaCortex" class="primary-link">Explore Our Documentation</a>
 </div>
-
-<footer class="footer">
-© 2025 EvaCortex. All Rights Reserved.
-</footer>

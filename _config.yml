@@ -1,0 +1,28 @@
+title: EvaCortex
+description: Reasoning-first architecture for structured, introspective AI agents.
+baseurl: ""
+url: "http://evacortex.ai"
+
+theme: null
+markdown: kramdown
+
+include:
+  - assets
+  - index.md
+
+exclude:
+  - README.md
+  - LICENSE
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+
+github:
+  is_project_page: false
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
