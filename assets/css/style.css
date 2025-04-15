@@ -1,85 +1,96 @@
-/* Base resets */
+/* ===== EvaCortex Dark Theme ===== */
+
+:root {
+    --background: #0f0f10;
+    --foreground: #eaeaea;
+    --accent: #8c7bff;
+    --accent-hover: #a89fff;
+    --text-muted: #aaaaaa;
+    --link-color: #9b8fff;
+    --link-hover: #c5baff;
+    --font-main: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
+body {
+    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
 html, body {
-    background: #fff;
-    color: #222;
-    font-family: 'Inter', 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-    line-height: 1.6;
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-main);
+    line-height: 1.7;
     font-size: 18px;
+    scroll-behavior: smooth;
 }
 
 a {
-    color: #3B5BDB;
+    color: var(--link-color);
     text-decoration: none;
-    transition: color 0.2s ease;
+    border-bottom: 1px dotted var(--link-color);
+    transition: color 0.2s ease, border-color 0.2s ease;
 }
 
 a:hover {
-    color: #2E448B; /* slightly darker or lighter for hover effect */
+    color: var(--link-hover);
+    border-color: var(--link-hover);
 }
 
-.logo {
-    display: block;
-    max-width: 120px; /* or 80px if you want smaller */
-    margin: 40px auto 20px auto; /* center it horizontally */
-}
-
-/* Hero section */
-.hero {
-    max-width: 800px;
-    margin: 120px auto 40px auto;
+main.site-main {
+    max-width: 720px;
+    margin: 120px auto 80px auto;
+    padding: 0 24px;
     text-align: center;
-    padding: 0 20px;
 }
 
-.headline {
-    font-size: 32px;
+h1.headline {
+    font-size: 36px;
     font-weight: 600;
-    margin-bottom: 24px;
+    color: var(--foreground);
+    margin-bottom: 32px;
+    line-height: 1.4;
 }
 
 .headline em {
     font-style: italic;
-    color: #555; /* subtle highlight */
+    color: var(--accent);
 }
 
 .subtitle {
     font-size: 20px;
-    color: #444;
-    line-height: 1.7;
-    margin-bottom: 40px;
+    color: var(--text-muted);
+    margin-bottom: 48px;
 }
 
-/* CTA link */
 .cta {
-    text-align: center;
-    margin: 0 auto 120px auto;
+    margin: 60px 0;
 }
 
 .primary-link {
-    background-color: #3B5BDB;
+    display: inline-block;
+    background-color: var(--accent);
     color: #fff;
-    padding: 12px 24px;
-    border-radius: 6px;
     font-weight: 500;
-    transition: background-color 0.2s ease;
+    font-size: 16px;
+    padding: 12px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.25s ease;
+    border: none;
 }
 
 .primary-link:hover {
-    background-color: #2E3F8B;
+    background-color: var(--accent-hover);
 }
 
-/* Ensuring responsiveness for smaller screens */
-@media (max-width: 600px) {
-    .headline {
-        font-size: 26px;
-    }
-    .subtitle {
-        font-size: 18px;
-    }
+footer.site-footer {
+    text-align: center;
+    font-size: 14px;
+    color: var(--text-muted);
+    margin-top: 80px;
+    padding-bottom: 40px;
 }
