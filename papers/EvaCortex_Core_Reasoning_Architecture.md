@@ -1,11 +1,6 @@
 # **EvaCortex Core Reasoning Architecture**
----
 
 > **EvaCortex is a foundation for agents that not only respond — but think, reason, and architect themselves over time.**
-
----
-
-> _This paper does not include implementation details. It abstracts the cognitive model for conceptual and exploratory purposes only._
 
 ## **Abstract**
 
@@ -16,7 +11,7 @@
 - memory continuity, and
 - introspective traceability.
 
-This paper outlines the **conceptual structure** and **guiding principles** of the architecture — abstracted away from implementation specifics — to serve as a **platform-neutral reference** for advanced reasoning-based AI development.
+> _This paper does not include implementation details. It abstracts the cognitive model for conceptual and exploratory purposes only._
 
 ---
 

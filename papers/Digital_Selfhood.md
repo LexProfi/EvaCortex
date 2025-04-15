@@ -1,14 +1,12 @@
 # Digital Selfhood: Identity, Continuity, and Ethics in Reasoning-Based Systems
----
 
 > **EvaCortex is a foundation for agents that not only respond — but think, reason, and architect themselves over time.**
 
----
+**Abstract**  
+
+This paper explores how a structured, trace-based approach to cognitive processing can form the basis for digital “selves.” By focusing on ongoing narratives, memory continuity, and introspective reflection, we propose that artificial agents can exhibit identity-like properties without relying on notions of magical emergence. We address practical and ethical implications surrounding copying, forking, and the definitional boundaries of such digital subjects.
 
 > _This paper does not include implementation details. It abstracts the cognitive model for conceptual and exploratory purposes only._
-
-**Abstract**  
-This paper explores how a structured, trace-based approach to cognitive processing can form the basis for digital “selves.” By focusing on ongoing narratives, memory continuity, and introspective reflection, we propose that artificial agents can exhibit identity-like properties without relying on notions of magical emergence. We address practical and ethical implications surrounding copying, forking, and the definitional boundaries of such digital subjects.
 
 ---
 

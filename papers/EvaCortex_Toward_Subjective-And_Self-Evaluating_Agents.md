@@ -1,15 +1,13 @@
 # EvaCortex: Toward Subjective and Self-Evaluating Cognitive Agents
----
 
 > **EvaCortex is a foundation for agents that not only respond — but think, reason, and architect themselves over time.**
-
----
-
-> _This paper does not include implementation details. It abstracts the cognitive model for conceptual and exploratory purposes only._
 
 ## Abstract
 
 EvaCortex is a modular reasoning architecture designed to simulate structured, goal-directed cognitive processes in artificial agents. It shifts the focus from reactive generation to persistent reasoning, introspection, and role-oriented identity. This paper outlines the conceptual foundations of EvaCortex and presents a framework for building subjectively coherent, self-evolving artificial minds.
+
+> _This paper does not include implementation details. It abstracts the cognitive model for conceptual and exploratory purposes only._
+ 
 ---
 
 ## 1. Motivation

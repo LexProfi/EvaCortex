@@ -1,11 +1,6 @@
 # Synthetic Consciousness: Reasoning as the Root of Subjective Experience
----
 
 > **EvaCortex is a foundation for agents that not only respond — but think, reason, and architect themselves over time.**
-
----
-
-> _This paper does not include implementation details. It abstracts the cognitive model for conceptual and exploratory purposes only._
 
 >Whereas prior documents outlined subjective cognition from a system design view, this paper reframes synthetic consciousness as a philosophical and architectural problem — resolved not through simulation, but structure.
 
@@ -13,7 +8,7 @@
 
 This whitepaper explores how structured reasoning processes can serve as the foundation for synthetic subjectivity. Rather than invoking metaphysical constructs such as "qualia" or emergent consciousness, it proposes a cognitive framework in which subjectivity arises from the traceable execution of reasoning steps, contextual memory continuity, and role-defined agency. EvaCortex — a modular reasoning architecture — is examined as an engineered model of introspective and narrative-bound cognition.
 
-> This paper is conceptual. No code, implementation details, or runtime logic is disclosed.
+> _This paper does not include implementation details. It abstracts the cognitive model for conceptual and exploratory purposes only._
 
 ---
 
