@@ -60,7 +60,7 @@ This means:
 | [EvaCortex: Toward Subjective and Self-Evaluating Agents](./papers/EvaCortex_Toward_Subjective-And_Self-Evaluating_Agents.md) | Introduction to role-based reasoning agents                                                                         |
 | [Synthetic Consciousness: Reasoning as the Root of Subjective Experience](./papers/Synthetic_Consciousness.md)                | Engineering subjectivity beyond qualia                                                                              |
 | [Digital Selfhood: Identity, Continuity, and Ethics in Reasoning-Based Systems](./papers/Digital_Selfhood.md)                 | Explores how trace-based narratives foster digital identity, plus the implications of copying, forking, and ethics. |
-| [EvaCortex: A Foundational Architecture for Structured AGI Systems](./papers/EvaCortex_Foundational_AGI_Architecture.md)       | Presents EvaCortex as a scalable, trace-oriented substrate for structured AGI design and multi-agent cognition      |
+| [EvaCortex: A Foundational Architecture for Structured AGI Systems](./papers/EvaCortex_Foundational_Agi_Architecture.md)       | Presents EvaCortex as a scalable, trace-oriented substrate for structured AGI design and multi-agent cognition      |
 
 > 📎 All documents are timestamped and cryptographically verifiable through Git history.
 
