@@ -19,3 +19,5 @@ Update papers\EvaCortex_Core_Reasoning_Architecture.md  @ 2025-04-15-20:03 UTC �
 Update papers\EvaCortex_Toward_Subjective-And_Self-Evaluating_Agents.md  @ 2025-04-15-20:03 UTC → c960d6dc0b85d6599356c18f474f430c23b6aa0a19ac74c00b87e58fb2347b15
 Update papers\Synthetic_Consciousness.md  @ 2025-04-15-20:03 UTC → ac3d151e09f403873596113ed5a57667abdcf6c0e414681ab63f6e28fef6f1d9
 Update papers\Digital_Selfhood.md  @ 2025-04-15-20:03 UTC → f407ce2f7e7a89a1248866858b0fad4e63e37041b0b6e19a6114756e50299747
+Update README.md @ 2025-04-17-20:00 UTC → 6320c6889d25823dfcd522724afc0ccf1a62c29a6f7aa8b1d586653819fcb5f4
+Add papers\EvaCortex_Foundational_Agi_Architecture.md  @ 2025-04-17-20:00 UTC → 04a8728b42f6896852023fdc49dbfc90289c037355b7bb74fb3c9c57a745c0f5
