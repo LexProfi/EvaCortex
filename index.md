@@ -13,7 +13,3 @@ title: EvaCortex
     It doesn’t merely answer. It <em>reflects</em> — quietly.
   </p>
 </div>
-
-<div class="cta">
-  <a href="https://github.com/LexProfi/EvaCortex" class="primary-link">Explore Our Documentation</a>
-</div>
