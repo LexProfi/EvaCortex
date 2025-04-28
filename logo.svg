@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 682.00 690.00">
-<path fill="#e8eaea" d="
+<path fill="#F1F5F9" d="
   M 19.58 342.50
   A 0.67 0.65 -40.8 0 1 19.66 341.53
   Q 29.53 333.73 37.05 325.30
@@ -730,7 +730,7 @@
   A 0.51 0.50 -23.9 0 0 310.79 641.04
   Z"
 />
-<path fill="#e8eaea" d="
+<path fill="#F1F5F9" d="
   M 374.7075 375.4462
   A 1.26 1.26 0.0 0 1 373.4453 376.7040
   L 311.5054 376.5959
